@@ -34,12 +34,12 @@
 ---
 
 ### Education
-2014 ~ 2017 : Computer Game Development at Ulsan Anione HighSchool.
-2017 ~ : Software Engineering at Dongseo University.
-2017 ~ : AI Engineering at Dongseo University.
+2014 ~ 2017 : Computer Game Development at Ulsan Anione HighSchool.  
+2017 ~ : Software Engineering at Dongseo University.  
+2017 ~ : AI Engineering at Dongseo University.  
 
-2021.07.05 ~ 2021.07.30 : 4 weeks of EFL & Machine Learing Program at University of the Cordilleras.
-2022.01.24 ~ 2022.02.18 : Silicon Valley Software Innovation & Technology Program at San Jose State University.
+2021.07.05 ~ 2021.07.30 : 4 weeks of EFL & Machine Learing Program at University of the Cordilleras.  
+2022.01.24 ~ 2022.02.18 : Silicon Valley Software Innovation & Technology Program at San Jose State University.  
 
 ---
 
