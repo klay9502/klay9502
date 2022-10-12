@@ -22,6 +22,7 @@
 		<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"/>
 		<img src="https://img.shields.io/badge/SwiftUI-0071E3?style=flat&logo=swift&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
 	</a>
 </p>
