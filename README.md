@@ -54,6 +54,11 @@
 
 ---
 
+### Experience
+- 2022.09 ~ : Answering Impromptu Questions Tutor - [[Sparta Coding Club]](https://spartacodingclub.kr/)
+
+---
+
 ### Domestic Publications
 
 - JongMin Kim and Sunyong Kim. "Reinforcement Learning-Based Illuminance Control Method for Building Lighting System", Journal of IKEEE 26, no.1 (2022) : 56-61 [[Link]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002828207)
