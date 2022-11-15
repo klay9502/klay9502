@@ -55,7 +55,7 @@
 ---
 
 ### Experience
-- 2022.09 ~ : Answering Impromptu Questions Tutor - [Sparta Coding Club](https://spartacodingclub.kr/)
+- 2022.09 ~ : Answering Impromptu Questions Service (Tutor, [Sparta Coding Club](https://spartacodingclub.kr/))
 
 ---
 
