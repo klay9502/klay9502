@@ -55,7 +55,7 @@
 ---
 
 ### Career
-- 2022.09 ~ : Immediate Answer Question Service (Tutor, [Sparta Coding Club](https://spartacodingclub.kr/))
+- 2022.09 ~ : Fast Q&A Service (Tutor, [Sparta Coding Club](https://spartacodingclub.kr/))
 
 ---
 
