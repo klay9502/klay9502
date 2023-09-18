@@ -55,10 +55,15 @@
 ---
 
 ### Career
-- 2022.09 ~ : Fast Q&A Service (Tutor, [Sparta Coding Club](https://spartacodingclub.kr/))
+- 2022.08 ~ : Fast Q&A Service (Tutor, [Sparta Coding Club](https://spartacodingclub.kr/))
 
 ---
 
-### Domestic Publications
+### Domestic Journal Papers
 
-- JongMin Kim and Sunyong Kim. "Reinforcement Learning-Based Illuminance Control Method for Building Lighting System", Journal of IKEEE 26, no.1 (2022) : 56-61 [[Link]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002828207)
+- Jongmin Kim and Sunyong Kim. "Reinforcement Learning-Based Illuminance Control Method for Building Lighting System", Journal of IKEEE 26, no.1 (2022) : 56-61 [[Link]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002828207)
+
+### Domestic Conference Papers
+
+- Jongmin Kim, Minsu Lee, Sunyong Kim. "Reinforcement Learning-Based Adaptive Traffic Signal Control in 4-Way Intersection", KICS Summer Conference 2023, Ramada Plaza Hotel, Jeju, Korea. 2023.06.21-23 [[Link]](https://journal-home.s3.ap-northeast-2.amazonaws.com/site/2023s/abs/0199-AGCMD.pdf)
+- Jongmin Kim, Seokmin Choi, Sunyong Kim. "A Comparison between Reinforcement Learning Algorithms for Controlling Lighting Systems in Buildings", KICS Fall Conference 2022, Lahan Select Hotel, Gyeonju, Korea. 2022.11.16-18 [[Link]](https://journal-home.s3.ap-northeast-2.amazonaws.com/site/2022f/abs/ZKTVS-0261.pdf)
